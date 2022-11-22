@@ -26,12 +26,12 @@ body {
 }
 
 .top-container,
-.results {
+.bottom-container {
   margin: 30px 10px;
+  text-align: center;
 }
 
 .top-container {
-  text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
